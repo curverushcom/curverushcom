@@ -1,6 +1,6 @@
 ## Welcome to Curve Rush! 👋
 
-[Curve Rush]([https://slopeonline.online/](https://curverush.com/) takes players on a journey through sandy dunes where they control the ball and try to soar through the skies to earn scores and land smoothly to survive. The game requires both skills and the ability to time their jumps and lands perfectly. Play the game now and conquer the leaderboard!
+[https://slopeonline.online/|Slope game] takes players on a journey through sandy dunes where they control the ball and try to soar through the skies to earn scores and land smoothly to survive. The game requires both skills and the ability to time their jumps and lands perfectly. Play the game now and conquer the leaderboard!
 
 **How to play Curve Rush**
 The game requires players to guide the ball through endless slopes in the desert. To gain speed, left click and hold. Then, release to fly. 
