@@ -3,6 +3,7 @@
 [Curve Rush](https://curverush.com/) takes players on a journey through sandy dunes where they control the ball and try to soar through the skies to earn scores and land smoothly to survive. The game requires both skills and the ability to time their jumps and lands perfectly. Play the game now and conquer the leaderboard!
 
 **How to play Curve Rush**
+
 The game requires players to guide the ball through endless slopes in the desert. To gain speed, left click and hold. Then, release to fly. 
 How is your score calculated?
 Your score is calculated depending on the times that the ball pass through the white skyline. 
@@ -10,6 +11,7 @@ You can collect coins along the way to unlock a wide range of characters in the 
 If you fail to land smoothly, the ball will break and it will end the game. 
 
 **Here is a step-by-step guide:**
+
 1. Go to https://curverush.com/.
 2. Left-click and hold to gain momentum. Release to air. Hold the left mouse button again to dive.
 3. Soar through the skyline to earn points. Collect coins to unlock new features.
